@@ -1,4 +1,6 @@
-# 张修瑞 · 个人网站
+# Personal Portfolio
+
+> 本网站由 Claude Opus 5.5 生成。
 
 纯静态站点：HTML + CSS + 原生 JS，Hero 背景是手写的 WebGL 着色器。
 
