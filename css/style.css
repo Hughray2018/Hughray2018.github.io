@@ -11,10 +11,12 @@
   --pad: clamp(16px, 3vw, 48px);
   --ease: cubic-bezier(0.76, 0, 0.24, 1);
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
-  --display: "Anton", "Noto Sans SC", sans-serif;
-  --serif: "Instrument Serif", "Noto Serif SC", serif;
-  --sans: "Inter", "Noto Sans SC", system-ui, sans-serif;
-  --cn: "Noto Sans SC", sans-serif;
+  /* 中文用系统字体：苹果=苹方，Windows=微软雅黑，安卓/Linux=思源黑体 */
+  --cn-sys: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
+  --display: "Anton", var(--cn-sys);
+  --serif: "Instrument Serif", "Songti SC", "SimSun", serif;
+  --sans: "Inter", var(--cn-sys);
+  --cn: var(--cn-sys);
   --mono: "JetBrains Mono", ui-monospace, monospace;
 }
 

@@ -1,6 +1,12 @@
 # 张修瑞 · 个人网站
 
-纯静态站点：HTML + CSS + 原生 JS，依赖 GSAP / ScrollTrigger / Lenis（CDN 引入），Hero 背景是手写的 WebGL 着色器。
+纯静态站点：HTML + CSS + 原生 JS，Hero 背景是手写的 WebGL 着色器。
+
+所有依赖都放在 `vendor/` 里本地托管（不请求任何境外 CDN，方便国内访问）：
+
+- `vendor/js/`：GSAP 3.12.5、ScrollTrigger 3.12.5、Lenis 1.1.13
+- `vendor/fonts/`：Anton、Instrument Serif、Inter、JetBrains Mono（拉丁子集，OFL 许可），由 `css/fonts.css` 引入
+- 中文使用系统字体（苹方 / 微软雅黑 / 思源黑体），不额外下载
 
 ## 本地预览
 
