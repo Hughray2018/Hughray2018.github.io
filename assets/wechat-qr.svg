@@ -690,12 +690,12 @@
 <circle cx="39.5" cy="42.5" r=".43"/>
 <circle cx="40.5" cy="42.5" r=".43"/>
 </g>
-<rect x="2.5" y="2.5" width="6" height="6" rx="1.8" fill="none" stroke="#0c0b0a" stroke-width="1"/>
-<rect x="4" y="4" width="3" height="3" rx=".9" fill="#0c0b0a"/>
-<rect x="36.5" y="2.5" width="6" height="6" rx="1.8" fill="none" stroke="#0c0b0a" stroke-width="1"/>
-<rect x="38" y="4" width="3" height="3" rx=".9" fill="#0c0b0a"/>
-<rect x="2.5" y="36.5" width="6" height="6" rx="1.8" fill="none" stroke="#0c0b0a" stroke-width="1"/>
-<rect x="4" y="38" width="3" height="3" rx=".9" fill="#0c0b0a"/>
+<rect x="2.5" y="2.5" width="6" height="6" fill="none" stroke="#0c0b0a" stroke-width="1"/>
+<rect x="4" y="4" width="3" height="3" fill="#0c0b0a"/>
+<rect x="36.5" y="2.5" width="6" height="6" fill="none" stroke="#0c0b0a" stroke-width="1"/>
+<rect x="38" y="4" width="3" height="3" fill="#0c0b0a"/>
+<rect x="2.5" y="36.5" width="6" height="6" fill="none" stroke="#0c0b0a" stroke-width="1"/>
+<rect x="4" y="38" width="3" height="3" fill="#0c0b0a"/>
 <circle cx="22.5" cy="22.5" r="4.8" fill="#ff4d1f"/>
 <g fill="#0c0b0a" transform="translate(22.5 22.5) scale(1.1428571428571428)"><ellipse cx="-.9" cy="-.6" rx="2.1" ry="1.75"/><path d="M-2.4 .6 L-2.7 1.9 L-1.4 1.0Z"/><ellipse cx="1.1" cy=".75" rx="1.75" ry="1.45" stroke="#ff4d1f" stroke-width=".35"/><path d="M2.3 1.7 L2.6 2.7 L1.5 2.0Z"/><circle cx="-1.6" cy="-.8" r=".26" fill="#ff4d1f"/><circle cx="-.2" cy="-.8" r=".26" fill="#ff4d1f"/><circle cx=".5" cy=".55" r=".2" fill="#ff4d1f"/><circle cx="1.7" cy=".55" r=".2" fill="#ff4d1f"/></g>
 </svg>
